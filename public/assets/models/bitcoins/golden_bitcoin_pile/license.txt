@@ -1,0 +1,11 @@
+Model Information:
+* title:	Golden Bitcoin Pile
+* source:	https://sketchfab.com/3d-models/golden-bitcoin-pile-b8983d021d4446d4bc021ce545558120
+* author:	3Dimentional (https://sketchfab.com/insectscorch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Golden Bitcoin Pile" (https://sketchfab.com/3d-models/golden-bitcoin-pile-b8983d021d4446d4bc021ce545558120) by 3Dimentional (https://sketchfab.com/insectscorch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

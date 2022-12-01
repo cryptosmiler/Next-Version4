@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bitcoin
+* source:	https://sketchfab.com/3d-models/bitcoin-974eb93e7e1346e8a18086b4e6529703
+* author:	arthur (https://sketchfab.com/Arthur_mf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bitcoin" (https://sketchfab.com/3d-models/bitcoin-974eb93e7e1346e8a18086b4e6529703) by arthur (https://sketchfab.com/Arthur_mf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

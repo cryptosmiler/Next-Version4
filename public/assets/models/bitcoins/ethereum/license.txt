@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ethereum
+* source:	https://sketchfab.com/3d-models/ethereum-ac40cebf61464c548776a0c20b47ccc7
+* author:	arthur (https://sketchfab.com/Arthur_mf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ethereum" (https://sketchfab.com/3d-models/ethereum-ac40cebf61464c548776a0c20b47ccc7) by arthur (https://sketchfab.com/Arthur_mf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

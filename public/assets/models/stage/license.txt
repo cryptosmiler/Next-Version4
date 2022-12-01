@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stage
+* source:	https://sketchfab.com/3d-models/stage-628113e427b84004916269d41594bff3
+* author:	ade_11 (https://sketchfab.com/ade_11)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stage" (https://sketchfab.com/3d-models/stage-628113e427b84004916269d41594bff3) by ade_11 (https://sketchfab.com/ade_11) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
