@@ -8,7 +8,7 @@ const Content00 = (props:any) => {
         <div className="text-[30px] md:text-[60px] xl:text-[120px] font-medium text-[#FFFAFA] text-shadow1 text-center">
           
           <div className="waviy">
-            <span>Welcome to My Website</span>
+            <span >Welcome to My Website</span>
 
           </div>
           

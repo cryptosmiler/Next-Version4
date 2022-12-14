@@ -16,23 +16,37 @@ body {
   position: relative;
   -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0,0,0,.2));
   font-size: 60px;
+  animation: waviy 5s linear;
   letter-spacing: .3rem;
+  // animation-delay: 10s;
 }
 .waviy span {
-  font-family: 'Alfa Slab One', cursive;
+  // font-family: 'Alfa Slab One', cursive;
   position: relative; 
   display: inline-block;
-  color: #fff;
-//   text-transform: uppercase;
-  animation: waviy 2s infinite;
-  animation-delay: calc(.3s * var(--i));
+  // color: #fff;
+  //   text-transform: uppercase;
+  // animation: waviy 2s infinite linear;
+  // animation-delay: calc(.3s * var(--i));
   
 }
+@media (prefers-reduced-motion){
+  .waviy{
+    animation: waviy 5s linear;
+  }
+}
+
 @keyframes waviy {
 //   0%,40%,100% {
 //     transform: translateY(0)
 //   }
-  20% {
-    transform: translateY(-20px)
+  // 20% {
+  //   transform: translateY(-20px)
+  // }
+  from {
+    transform: rotateX(0deg);
+  }
+  to{
+    transform: rotateX(360deg);
   }
 }
