@@ -43,12 +43,12 @@ const Content07 = (props:any) => {
                         LET&apos;S BE FRIENDS!
                       </div>
                       <div className='font-medium w-[300px] md:w-[400px] flex justify-between items-center'>
-                        <Link href={'https://github.com/perfectdev000'}>
+                        <Link href={'https://github.com/whroyal'}>
                           <a target={'_blank'} className='hover:text-amber-500'>
                             <FaGithub/>
                           </a>
                         </Link>
-                        <Link href={'https://discord.gg/YgNKvera'}>
+                        <Link href={'https://discord.gg/Num#4903'}>
                           <a target={'_blank'} className='hover:text-amber-500'>
                             <FaDiscord/>
                           </a>
