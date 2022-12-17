@@ -9,25 +9,25 @@ const Content01 = (props:any) => {
             <div id='container '>
               <Image src="/assets/images/hi (2).gif" width="140" height="140" alt="gif" />
             </div>
-          <div className="mt-80 md:mt-20 w-fit mx-auto">
+          {/* <div className="mt-80 md:mt-20 w-fit mx-auto">
             <p>
               <span className="text-[50px] md:text-[70px] xl:text-[90px] font-bold text-[#f5dc8b]"> Brilliant Developer</span>
             </p>
-              <div className="flowtext mt-24 text-[#f5dc8b]">
+            <div className="flowtext mt-24 text-[#f5dc8b]">
               <div className="flowtext__container">
                 <p className="flowtext__container__text">
                   Specialized in
                 </p>
                 
                 <ul className="flowtext__container__list">
-                  <li className="flowtext__container__list__item">MERN | MEAN</li>
-                  <li className="flowtext__container__list__item">Solidity | Smart Contract</li>
-                  <li className="flowtext__container__list__item">React Native | Flutter</li>
+                  <li className="flowtext__container__list__item" id="flowtext1">MERN | MEAN</li>
+                  <li className="flowtext__container__list__item" id="flowtext2">Web3 | Solidity</li>
+                  <li className="flowtext__container__list__item" id="flowtext3">React Native | Flutter</li>
                 </ul>
               </div>
 
             </div>
-          </div>
+          </div> */}
           
           {/* <div className="mt-12 text-[#f5dc8b]">
            <br className="md:hidden"/>

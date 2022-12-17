@@ -46,7 +46,7 @@ const Home: NextPage = () => {
     // const pointer = new THREE.Vector2();
     let touchStartValue : any, playflag = false
     let pmremGenerator:any, sunPos:number
-    // const audioLoader = new THREE.AudioLoader()
+    const audioLoader = new THREE.AudioLoader()
 
     const parameters = {
       elevation: -3.5,
@@ -316,7 +316,7 @@ const Home: NextPage = () => {
 
       setTimeout(()=>{
         eventFlag.eventFlag = false
-      }, 1000)
+      }, 3000)
       gsap.to(document.getElementById('step-progress'), 0.5, {x:(window.innerWidth * sceneData.order/5)})
     }
 
@@ -349,18 +349,18 @@ const Home: NextPage = () => {
         playButton.visible = false
         playflag = true
         
-        // const listener = new THREE.AudioListener();  
-        // camera.camera.add( listener );
-        // sound = new THREE.Audio( listener );
-        // const audioLoader = new THREE.AudioLoader();
-        // setTimeout(()=>{
-        //   audioLoader.load( 'assets/sounds/wavefile_short.mp3', function( buffer ) {
-        //     sound.setBuffer( buffer )
-        //     sound.setLoop( true );
-        //     sound.setVolume( 0.5 );
-        //     sound.play()
-        //   });
-        // }, 1000)
+        const listener = new THREE.AudioListener();  
+        camera.camera.add( listener );
+        sound = new THREE.Audio( listener );
+        const audioLoader = new THREE.AudioLoader();
+        setTimeout(()=>{
+          audioLoader.load( 'assets/sounds/wavefile_short.mp3', function( buffer ) {
+            sound.setBuffer( buffer )
+            sound.setLoop( true );
+            sound.setVolume( 0.5 );
+            sound.play()
+          });
+        }, 1000)
       } 
     }    
 

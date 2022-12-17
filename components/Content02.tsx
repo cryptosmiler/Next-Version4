@@ -4,11 +4,11 @@ const Content02 = (props:any) => {
   return (
     <div id="content02" className="absolute z-10 top-0 left-0 w-screen h-screen pointer-events-none opacity-0">
       <div className="w-screen h-screen flex justify-center items-center">
-        <div className="text-[32px] leading-[35px] md:text-[40px] md:leading-[50px] xl:text-[75px] xl:leading-[70px]
+        {/* <div className="text-[32px] leading-[35px] md:text-[40px] md:leading-[50px] xl:text-[75px] xl:leading-[70px]
           font-medium text-[#FFFEFE] text-shadow1 w-fit mx-auto px-8 max-w-[390px] md:max-w-[768px] xl:max-w-[1200px]"
         >
           <div className="mt-20 w-fit mx-auto text-[#f5dc8b]">
-            Full Stack Developer
+            About me
           </div>
 
           <div className="mt-8 md:mt-20 w-fit mx-auto text-[22px] leading-[30px] md:text-[40px] md:leading-[50px]">
@@ -62,7 +62,7 @@ const Content02 = (props:any) => {
             </div>
 
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   )

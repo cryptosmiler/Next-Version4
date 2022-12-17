@@ -7,12 +7,12 @@ const Content00 = (props:any) => {
       <div className="w-full max-w-[1440px] mx-auto h-screen flex justify-center items-center">
         <div className="text-[30px] md:text-[60px] xl:text-[120px] font-medium text-[#FFFAFA] text-shadow1 text-center">
           
-        <section>
+        {/* <section>
           <div className="content w-full">
             <h2>Welcome</h2>
             <h2>Welcome</h2>
           </div>
-        </section>
+        </section> */}
           
         </div>
       </div>

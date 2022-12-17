@@ -1,7 +1,7 @@
 .green, .red, .orange, .blue {
   margin-top: 15px;
   width: 155px;
-}
+}z
 .green .progress,
 .red .progress,
 .blue .progress,
@@ -12,6 +12,7 @@
   height: 155px;
   transition: all 1s ease;
 }
+
 .green .progress .inner,
 .red .progress .inner,
 .blue .progress .inner,

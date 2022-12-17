@@ -35,7 +35,7 @@ const Content04 = (props:any) => {
 
         <div className="h-[90%] flex justify-center items-center">
           <div className="main_box ">
-              <div className="img img1">
+              {/* <div className="img img1">
                 <div className="alink">
                   <Link href={'https://www.desolate.space/'}>
                     <a target={'_blank'}>
@@ -45,7 +45,7 @@ const Content04 = (props:any) => {
                     </a>
                   </Link>
                 </div>
-              </div>
+              </div> */}
 
               <div className="img img2">
                 <div className="alink">
@@ -59,7 +59,7 @@ const Content04 = (props:any) => {
                 </div>
               </div>
 
-              <div className="img img3">
+              {/* <div className="img img3">
                 <div className="alink">
                   <Link href={'https://campoallecomete.vercel.app'}>
                     <a target={'_blank'}>
@@ -69,8 +69,8 @@ const Content04 = (props:any) => {
                     </a>
                   </Link>
                 </div>
-              </div>
-
+              </div> */}
+{/* 
               <div className="img img4">
                 <div className="alink">
                   <Link href={'https://webvr-showroom.vercel.app'}>
@@ -81,7 +81,7 @@ const Content04 = (props:any) => {
                     </a>
                   </Link>
                 </div>
-              </div>
+              </div> */}
 
               <div className="img img6">
                 <div className="alink">
@@ -95,7 +95,7 @@ const Content04 = (props:any) => {
                 </div>
               </div>
 
-              <div className="img img7">
+              {/* <div className="img img7">
                 <div className="alink">
                   <Link href={'https://www.oppo.com/en/events/innoday2021/'}>
                     <a target={'_blank'}>
@@ -104,7 +104,7 @@ const Content04 = (props:any) => {
                       https://www.oppo.com/en/events/innoday2021/                    </a>
                   </Link>
                 </div>
-              </div>
+              </div> */}
 
               <div className="img img8">
                 <div className="alink">
@@ -118,7 +118,7 @@ const Content04 = (props:any) => {
                 </div>
               </div>
 
-              <div className="img img10">
+              {/* <div className="img img10">
                 <div className="alink">
                   <Link href={'https://jin-redmi-showroom.vercel.app/'}>
                     <a target={'_blank'}>
@@ -128,7 +128,7 @@ const Content04 = (props:any) => {
                     </a>
                   </Link>
                 </div>
-              </div>
+              </div> */}
 
               <div className="img img11">
                 <div className="alink">
